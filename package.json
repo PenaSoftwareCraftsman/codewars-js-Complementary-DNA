@@ -1,7 +1,7 @@
 {
   "name": "codewars-js-template",
   "version": "1.0.0",
-  "description": "XXXX A short description XXXXXX",
+  "description": "Deoxyribonucleic acid (DNA) is a chemical found in the nucleus of cells and carries the 'instructions' for the development and functioning of living organisms.",
   "main": "index.js",
   "directories": {
     "test": "test"
